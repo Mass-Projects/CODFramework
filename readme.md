@@ -15,3 +15,5 @@ What can i or will i experience using the COD Framework?
 # FAQ
 Q1. Will COD Framework be free?
 A1. Maybe but there will definitely be some cost things involved!
+Q2. When will this release?
+A2. Unknown most likely a few months!
