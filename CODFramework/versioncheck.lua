@@ -1,5 +1,5 @@
 Citizen.CreateThread( function()
-updatePath = "/Bluethefurry/FiveM-Resource-Version-Check-Thing" -- your git user/repo path
+updatePath = "/Mass-Projects/CODFramework" -- your git user/repo path
 resourceName = "CODFramework ("..GetCurrentResourceName()..")" -- the resource name
 
 function checkVersion(err,responseText, headers)
