@@ -1,6 +1,6 @@
 Config = {}
 
-local Prefix = "[barbaroNNs Queue] "
+local Prefix = "[CODFramework Queue] "
 Config.DiscordServerID = 123123123 -- Discord Server ID
 Config.DiscordBotToken = "TOKEN" -- Discord Bot Token. You can create one on https://discord.com/developers/applications
 Config.ApiLink = "" -- API Stuff
@@ -28,8 +28,8 @@ Config.Colors = {
 	"attention",
 }
 
-Config.Verifiying = Prefix .. "Please wait, Downloading content from RealisticLifeRP database."
-Config.VerifiyingLauncher = Prefix .. "Please wait, Verifiying you entered through the launcher."
+Config.Verifiying = Prefix .. "Please wait, Downloading content from the CODFramework along with resources"
+Config.VerifiyingLauncher = Prefix .. "Please wait, Verifiying you entered through the launcher. If there is one"
 Config.VerifiyingDiscord = Prefix .. "Please wait, Verifiying your Discord ID."
 Config.VerifiyingSteam = Prefix .. "Please wait, Verifiying your Steam."
 Config.VerifiyingQueue = Prefix .. "Please wait, Adding you to the queue."
