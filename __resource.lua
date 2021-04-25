@@ -6,10 +6,17 @@ author 'BestLEO'
 description 'COD Framework Created By Mass Projects'
 version 'A0.0.0.1'
 
--- What to run
+
 client_scripts {
     'client.lua',
-    'client_two.lua'
+    'client/*'
+    'UI/*',
+    
 }
 
-server_script 'server.lua'
+server_script {
+    
+    'versioncheck.lua',
+    'framework/core/*',
+    'server/*'
+}
