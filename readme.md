@@ -10,7 +10,7 @@ What can i or will i experience using the COD Framework?
 3. ESX Type stuff
 4. Custom Things
 5. Battle modes placed on certian sections of the map!
-
+6. Fully custom maps to battle on :)
 
 # FAQ
 Q1. Will COD Framework be free?
