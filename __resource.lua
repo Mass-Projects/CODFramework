@@ -18,5 +18,6 @@ server_script {
     
     'versioncheck.lua',
     'framework/core/*',
+    'maps/*',
     'server/*'
 }
